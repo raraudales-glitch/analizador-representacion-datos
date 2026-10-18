@@ -37,6 +37,7 @@ PS C:\Users\jonat\Videos\Analizador de representación de datos usando Python 3.
 
 
 
-
+#VIDEO EJECUTANDO PRUEBAS
+https://youtu.be/qeoKvxFl6R0
 
 
